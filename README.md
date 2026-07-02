@@ -1,10 +1,1 @@
-[-] Create Design PRD with full aesthetic specifications
-[ ] Initialize React project with webapp builder
-[ ] Generate barber profile images (3 black & white portraits)
-[ ] Build Hero section with ticket-style booking button
-[ ] Build Services/Price List section as vintage menu
-[ ] Build Barber Profiles section with thick frames
-[ ] Build About/Story section with newsprint aesthetic
-[ ] Build Contact/Location section
-[ ] Implement CSS transitions and hover effects
-[ ] Build and deploy website
+<a href="https://gmashrsa.com">Ai</a> © 2026  by <a href="https://gmashrsa.com">Shane</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
